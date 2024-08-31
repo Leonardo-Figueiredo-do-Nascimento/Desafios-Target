@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class Fibonacci {
 
     public static boolean boolFibonacci(int number) {
         if (number == 0 || number == 1) {
