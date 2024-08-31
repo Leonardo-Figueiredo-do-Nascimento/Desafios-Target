@@ -1,0 +1,1 @@
+O valor da variável soma no final será de 77.
